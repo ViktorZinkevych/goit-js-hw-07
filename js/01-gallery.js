@@ -2,7 +2,7 @@ import { galleryItems } from './gallery-items.js';
 // Change code below this line
 const basicLightbox = window.basicLightbox
 
-console.log(galleryItems);
+// console.log(galleryItems);
 
 const galleryList = document.querySelector(".gallery");
 
